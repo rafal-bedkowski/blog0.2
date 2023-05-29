@@ -13,7 +13,7 @@ Mam na imię Rafał, jestem szczęśliwym studentem przecuuuuudownej polskiej po
 
 Doświadczenie zdobyte podczas walki z przeróżnymi dziwnymi przedmiotami na studiach pomogły mi podjąć pewną istotną decyzję ...
 
-Frontendy albo śmierć...   (tu oklaski dla wskaźników oraz assemblera 👏)
+Web Dev albo śmierć...   (tu oklaski dla wskaźników oraz assemblera 👏)
 
 Stąd jestem teraz tu gdzie jestem(tak aktualnie to w Macu sącząc pyszną kawunie... pamietajcie zimna najlepsza ☕️).
 
